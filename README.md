@@ -1,6 +1,6 @@
 ### Hi there, I'm Anurag Kumar 👋
 
-# I'm a Competitive Programmer and worked on ML and Data Science projects, recently I have graduated from NIT Srinagar in CSE. I'm also working on Backend Devlopment using Django and Python.
+I'm a Competitive Programmer and worked on ML and Data Science projects, recently I have graduated from NIT Srinagar in CSE. I'm also working on Backend Devlopment using Django and Python.
 
 - 🔭 I’m currently working on problem solving and DSA.
 - 🌱 I’m currently learning Django for Backend development.
