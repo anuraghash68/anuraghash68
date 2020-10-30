@@ -1,4 +1,4 @@
-### Hi there, I'm Anurag Kumar 👋   ![images](https://user-images.githubusercontent.com/41445611/97724724-49a72d00-1af3-11eb-8b53-f7da2c3c1307.jpeg)
+### Hi there, I'm Anurag Kumar 👋                     ![images](https://user-images.githubusercontent.com/41445611/97724724-49a72d00-1af3-11eb-8b53-f7da2c3c1307.jpeg)
 
 
 **I’m a Competitive Programmer and worked on ML and Data Science projects, recently I have graduated from NIT Srinagar in CSE. I’m also working on Backend Devlopment using Django and Python.**
