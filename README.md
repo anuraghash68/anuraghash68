@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anurag Kumar</h1>
+<h1 align="center">Hi, I'm Anurag Kumar</h1>
 <h3 align="center">A Web Developer and Problem Solver.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuraghash68&label=Profile%20views&color=0e75b6&style=flat" alt="anuraghash68" /> </p>
@@ -44,7 +44,7 @@
 ![Anurag GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghash68&show_icons=true&theme=dark)
 
 
-<p align = "center">[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anuraghash68&theme=earth)](https://git.io/streak-stats)</p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anuraghash68&theme=earth)](https://git.io/streak-stats)
 
-<p align = "center">[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)</p>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
