@@ -57,7 +57,7 @@
   </div>
 
 <div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghash68&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghash68&layout=compact)][https://github.com/anuraghash68]
 
 
 ![Anurag GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghash68&show_icons=true&theme=dark)
