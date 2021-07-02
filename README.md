@@ -57,12 +57,13 @@
   </div>
 
 <div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghash68&show_icons=true&locale=en&layout=compact" alt="anuraghash68" /></p><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghash68&show_icons=true&locale=en&layout=compact" alt="anuraghash68" /></p>
+  <br><br>
 
 ![Anurag GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghash68&show_icons=true&theme=dark)
-<div align="center">
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anuraghash68&theme=earth)](https://git.io/streak-stats)
-  </div>
+
   </div>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
