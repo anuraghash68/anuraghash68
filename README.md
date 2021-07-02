@@ -1,3 +1,5 @@
+![IMG_20190502_154541](https://user-images.githubusercontent.com/41445611/124256048-7c089e80-db48-11eb-97fe-9cc7cbcad3e6.jpg)
+
 <h1 align="center">Hi, I'm Anurag Kumar</h1>
 <h3 align="center">A Web Developer and Problem Solver.</h3>
 
