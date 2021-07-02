@@ -44,3 +44,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghash68&show_icons=true&locale=en" alt="anuraghash68" /></p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anuraghash68&theme=earth)](https://git.io/streak-stats)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+
