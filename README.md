@@ -57,8 +57,8 @@
   </div>
 
 <div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghash68&show_icons=true&locale=en&layout=compact" alt="anuraghash68" /></p>
-  <br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghash68&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![Anurag GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghash68&show_icons=true&theme=dark)
 
