@@ -1,11 +1,8 @@
-![IMG_20190502_154541](https://user-images.githubusercontent.com/41445611/124256048-7c089e80-db48-11eb-97fe-9cc7cbcad3e6.jpg)
+![IMG_20190502_154541 (1) (1)](https://user-images.githubusercontent.com/41445611/124256880-68aa0300-db49-11eb-8ad3-a84eb777e5cf.jpg)
 
-<h1 align="center">Hi, I'm Anurag Kumar</h1>
-<h3 align="center">A Web Developer and Problem Solver.</h3>
+![](https://komarev.com/ghpvc/?username=anuraghash68&color=blue)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuraghash68&label=Profile%20views&color=0e75b6&style=flat" alt="anuraghash68" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuraghash68" alt="anuraghash68" /></a> </p>
 
 - 🔭 I’m currently working on **Backend Project using Node JS**
 
@@ -27,8 +24,13 @@
 
 - ⚡ Fun fact **I can sleep for 18 hours at a time.**
 
-<h3 align="center">Connect with me:</h3>
-<p align="left">
+<h3 align="center">GitHub action's status:</h3>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuraghash68" alt="anuraghash68" /></a> </p>
+
+<h3 align="center">Coding Profiles on Online Judges:</h3>
+
+<p align="center">
 <a href="https://linkedin.com/in/anuraghash68" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuraghash68" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/nit_2016" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nit_2016" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/anuragnitsgr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anuragnitsgr" height="30" width="40" /></a>
@@ -37,6 +39,7 @@
 <a href="https://www.hackerearth.com/@anurag686" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@anurag686" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/anuraghash68" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anuraghash68" height="30" width="40" /></a>
 </p>
+
 
 <h3 align="center">Languages and Tools:</h3>
 <div>
@@ -58,15 +61,14 @@
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 
-<div>
+<h3 align="center"> GitHub various Stat's:</h3>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghash68&show_icons=true&locale=en&layout=compact" alt="anuraghash68"/>
 
 ![Anurag GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghash68&show_icons=true&theme=dark)
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anuraghash68&theme=earth)](https://git.io/streak-stats)
+<a align="center">[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anuraghash68&theme=earth)](https://git.io/streak-stats)</a>
 
-</div>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
