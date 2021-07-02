@@ -57,9 +57,9 @@
   </div>
 
 <div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghash68&layout=compact)][https://github.com/anuraghash68]
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghash68&show_icons=true&locale=en&layout=compact" alt="anuraghash68" /></p>
 
-
+<br><br><br>
 ![Anurag GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghash68&show_icons=true&theme=dark)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anuraghash68&theme=earth)](https://git.io/streak-stats)
