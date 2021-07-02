@@ -41,9 +41,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghash68&show_icons=true&locale=en&layout=compact" alt="anuraghash68" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghash68&show_icons=true&locale=en" alt="anuraghash68" /></p>
+![Anurag GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghash68&show_icons=true&theme=dark)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anuraghash68&theme=earth)](https://git.io/streak-stats)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+<p align = "center">[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anuraghash68&theme=earth)](https://git.io/streak-stats)</p>
+
+<p align = "center">[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)</p>
 
