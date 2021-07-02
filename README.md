@@ -67,7 +67,8 @@
 
 ![Anurag GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghash68&show_icons=true&theme=dark)
   
-<a align="center">[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anuraghash68&theme=earth)](https://git.io/streak-stats)</a>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anuraghash68&theme=earth)](https://git.io/streak-stats)
+
 
 
 
